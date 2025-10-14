@@ -62,7 +62,7 @@ nav ul li a:hover {
 /* Hero Section */
 .hero {
     /* --- HERO BACKGROUND IMAGE --- */
-    background: url('hero-bg.jpeg') no-repeat center center/cover; /* Make sure 'hero-bg.jpg' is in your root folder */
+    background: url('hero-bg.jpg') no-repeat center center/cover; /* Make sure 'hero-bg.jpg' is in your root folder */
     color: #fff;
     text-align: center;
     padding: 100px 20px;
@@ -371,5 +371,6 @@ footer p {
         height: auto; /* Adjust for smaller screens */
     }
 }
+
 
 
