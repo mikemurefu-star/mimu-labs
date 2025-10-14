@@ -34,7 +34,7 @@ nav {
 
 .logo img {
     height: 40px; /* Adjust as needed */
-    filter: brightness(0) invert(1); /* Makes the logo white */
+    /*filter: brightness(0) invert(1); /* Makes the logo white */
 }
 
 nav ul {
@@ -298,4 +298,5 @@ footer p {
     .service-grid, .blog-articles {
         grid-template-columns: 1fr;
     }
+
 }
