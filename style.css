@@ -33,7 +33,7 @@ nav {
 }
 
 .logo img {
-    height: 40px; /* Adjust as needed */
+    height: 50px; /* Adjust as needed */
     /* filter: brightness(0) invert(1); */ /* Removed the white filter - KEEP THIS COMMENTED OR REMOVED FOR JPG LOGO */
 }
 
@@ -371,3 +371,4 @@ footer p {
         height: auto; /* Adjust for smaller screens */
     }
 }
+
